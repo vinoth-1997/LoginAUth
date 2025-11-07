@@ -1,0 +1,155 @@
+{
+  "buildFiles": [
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-blob-util/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-image-crop-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-mmkv/MMKV/Core/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-mmkv/android/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-mmkv/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-permissions/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-share/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/aparajayahmacmini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/.cxx/Debug/z92d6b6u/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/aparajayahmacmini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/.cxx/Debug/z92d6b6u/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "appmodules",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact-native-mmkv.so",
+        "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+        "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+        "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/7950c94af11dbb1f5f961161b618d1e3/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "core::@1b9a7d546b295b7d0867": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "core",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/.cxx/Debug/z92d6b6u/arm64-v8a/RNMmkvSpec_cxxmodule_autolinked_build/core/libcore.a"
+    },
+    "react-native-mmkv::@4ae6a1e65d3e68ba0197": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react-native-mmkv",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact-native-mmkv.so",
+      "runtimeFiles": [
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/7950c94af11dbb1f5f961161b618d1e3/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNCImageCropPickerSpec::@702b02f8d2524609d414": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_RNCImageCropPickerSpec"
+    },
+    "react_codegen_RNMmkvSpec::@7541eabbae598da31a69": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_RNMmkvSpec"
+    },
+    "react_codegen_RNPermissionsSpec::@7ad697819b753921c957": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_RNPermissionsSpec"
+    },
+    "react_codegen_RNShareSpec::@e6c4c2b5aedb2ea213b7": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_RNShareSpec"
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
+    },
+    "react_codegen_ReactNativeBlobUtilSpec::@7d3cc6108106e04bb830": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_ReactNativeBlobUtilSpec"
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_rnasyncstorage"
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_rngesturehandler_codegen"
+    },
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_rnreanimated"
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/7950c94af11dbb1f5f961161b618d1e3/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_rnsvg",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/7950c94af11dbb1f5f961161b618d1e3/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Users/aparajayahmacmini/Documents/RN_Projects/Eggvy/android/app/build/intermediates/cxx/Debug/z92d6b6u/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/7950c94af11dbb1f5f961161b618d1e3/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/aparajayahmacmini/.gradle/caches/8.14.3/transforms/4e17d0f04f74ec109718e5ad0f34c845/transformed/jetified-react-android-0.77.3-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/aparajayahmacmini/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/aparajayahmacmini/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

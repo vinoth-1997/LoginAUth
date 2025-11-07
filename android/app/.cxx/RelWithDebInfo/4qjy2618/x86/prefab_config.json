@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/aparajayahmacmini/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/aparajayahmacmini/.gradle/caches/8.10.2/transforms/437913cc5953a03b973ac22c9bd52334/transformed/jetified-react-android-0.77.3-release/prefab",
+    "/Users/aparajayahmacmini/Desktop/Eggvy/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/aparajayahmacmini/.gradle/caches/8.10.2/transforms/475bf1fc63b221e7957dd7b5a78da727/transformed/jetified-hermes-android-0.77.3-release/prefab",
+    "/Users/aparajayahmacmini/.gradle/caches/8.10.2/transforms/4b518948b87399f4a281bae63e30346c/transformed/jetified-fbjni-0.7.0/prefab"
+  ]
+}
